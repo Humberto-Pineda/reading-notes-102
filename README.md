@@ -11,7 +11,11 @@ Here, you may observe the ramblings that I come up with throughout my experience
 
 #### A little about me
 
-I was born and grew up in Southern California. No I dont surf but yes, I love avocados. I currently reside near Seattle, Washington. I enjoy hiking the forests and mountains, as well as swim and paddleboard in the lakes. I have a dog who's a mixed breed, but I don't have a clue what those breeds are. His name is Noble and I swear he's a weird dog, deer, and little bear mixed into one.
+I was born and grew up in Southern California. No I dont surf but yes, I love avocados. I currently reside near Seattle, Washington. I enjoy hiking the forests and mountains, as well as swim and paddleboard in the lakes. 
+
+I have a dog who's a mixed breed, but I don't have a clue what those breeds are. Lab-Chow maybe? His name is Noble and I swear he's a weird dog, deer, and little bear mixed into one.
+
+![Noble](https://user-images.githubusercontent.com/108510107/177018095-8e442111-7eea-498e-8549-4474e8437098.jpg)
 
 I've been a flight attendant for the past 4 years now, and have been blessed to have seen several different countires and most of the states in the USA as well. I like to capture my adventures with my trusty camera always by my side, or in my pocket to be more precise. That is, my cellphone camera.
 
@@ -29,4 +33,3 @@ But having this mindset means that I am capable of learning all that I need to, 
 1. I can ask for help
 2. Challenges help me grow
 3. Nobody is great at something at the beginning
-
