@@ -1,5 +1,16 @@
 ## Berts Beacon
 
+Welcome to inner workings of my mind. 
+
+Here, you may observe the ramblings that I come up with throughout my experience in courses
+
+- 102
+- 201
+- 301
+- 401
+
+
+
 You can use the [editor on GitHub](https://github.com/Humberto-Pineda/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
