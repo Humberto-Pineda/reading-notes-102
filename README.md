@@ -1,4 +1,4 @@
-## Berts Beacon
+# Berts Beacon
 
 Welcome to inner workings of my mind. 
 
