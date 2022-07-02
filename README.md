@@ -1,6 +1,6 @@
 # Berts Beacon
 
-Welcome to inner workings of my mind. 
+### Welcome to inner workings of my mind. 
 
 Here, you may observe the ramblings that I come up with throughout my experience in courses
 
