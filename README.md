@@ -19,6 +19,8 @@ Using the skills I will learn in Code Fellows, I hope to develope my own side pr
 
 Please follow my Github webpage [Bert's Beacon](https://humberto-pineda.github.io/reading-notes/) to see my progress!
 
+Feel free to contact me through email at <bpineda7540@gmail.com>
+
 > A Growth Mindset
 
 Having a growth mindset is accepting that I, and no one, always have the answers. There are things that I don't know, and things I can't do... yet.
