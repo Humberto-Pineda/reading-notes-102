@@ -17,7 +17,7 @@ I've been a flight attendant for the past 4 years now, and have been blessed to 
 
 Using the skills I will learn in Code Fellows, I hope to develope my own side project website showcasing all the photographs that I've captured and will continue to capture throught the years. I'm am truly excited to find out what I can learn!
 
-Please follow my Github webpage to see my progress! [Bert's Beacon](https://humberto-pineda.github.io/reading-notes/)
+Please follow my Github webpage [Bert's Beacon](https://humberto-pineda.github.io/reading-notes/) to see my progress!
 
 > A Growth Mindset
 
