@@ -26,4 +26,18 @@ There are text editors come included with your computer, ones you can download f
 
 To find out what you feel most comfortable with, it might be prudent to experiment with a variety of text editors.
 
-### 
+### Linux and the Command Line
+
+As a software beginner, Understanding Linux and utilizing the command prompt to explore files is quite daunting
+There are a couple of commands I was able to grasp. The commands are mostly just shorthand versions of words
++ pwd "print working directory"
+  + it's like looking at a folder and seeing all the contents of the folder you're currently in, but instead of seeing it visually, you see it as a list in text form
++ cd "change directory"
+  + the equivalent of changing folders, but you need to type the folder/location you want to go to
++ ls "list"
+  + lists the contents of the folder/directory you're currently in
+
+There are symbols that you include with these commands 
+***/***, ***-***, ***1***, ***~***
+
+They indicate pathways to folders/directories but I'm still having trouble understanding them. I'll unpdate as I learn more.
