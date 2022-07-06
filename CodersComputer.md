@@ -29,7 +29,7 @@ To find out what you feel most comfortable with, it might be prudent to experime
 ### Linux and the Command Line
 
 As a software beginner, Understanding Linux and utilizing the command prompt to explore files is quite daunting
-There are a couple of commands I was able to grasp. The commands are mostly just shorthand versions of words
+There are a couple of commands I was able to grasp. The commands are mostly just shorthand versions of words. Linux is case-sensitive.
 + pwd "print working directory"
   + it's like looking at a folder and seeing all the contents of the folder you're currently in, but instead of seeing it visually, you see it as a list in text form
 + cd "change directory"
