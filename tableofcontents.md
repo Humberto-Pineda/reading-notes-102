@@ -2,6 +2,6 @@
 
 [Class Introduction](https://humberto-pineda.github.io/reading-notes/)
 
-[Class 1](https://humberto-pineda.github.io/reading-notes)
+[Class 1](https://humberto-pineda.github.io/reading-notes/class1)
 
 [Class 2](https://humberto-pineda.github.io/reading-notes/class2)
