@@ -9,7 +9,7 @@ You can:
 - Breakup your webpage into sections
 - Decide where you want your navigation bar to go
 - Pinpoint where you want to add images or videos
-- COllaborate with others for the best product before putting pen to paper (so to speak)
+- Collaborate with others for the best product before putting pen to paper (so to speak)
 
 Once you have your blueprints done, you can begin the coding process
 
