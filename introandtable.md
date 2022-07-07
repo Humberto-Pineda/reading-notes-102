@@ -16,6 +16,9 @@ Feel free to contact me through email at <bpineda7540@gmail.com>
 
 > Table of Contents
 
-[Class Introduction](https://github.com/Humberto-Pineda/reading-notes/blob/main/classintro.md)
+[Class Introduction](https://humberto-pineda.github.io/reading-notes/)
 
-[Class 1]
+[Class 1](https://humberto-pineda.github.io/reading-notes)
+
+[Class 2](https://humberto-pineda.github.io/reading-notes/class2)
+
