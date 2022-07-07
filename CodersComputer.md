@@ -1,8 +1,8 @@
 # The Coder's Computer
 
-### Quick thoughts on Text Editors
+## Quick thoughts on Text Editors
 
-Using a text editor is mostly about your own personal comfort. 
+Using a text editor is mostly about your own personal comfort.
 It is meant to provide you not just a way to make coding easier, but in a way that is personalized to you.
 
 > Useful text editing tools
@@ -10,7 +10,7 @@ It is meant to provide you not just a way to make coding easier, but in a way th
 + Syntax Highlighting
   + Can make text a different color and make it easier to read
 + Theme Selection
-  + Can change background and text color 
+  + Can change background and text color
 + Code commpletion
   + Think of auto-fill but while writing code. Can save you time and errors.
 
@@ -30,6 +30,7 @@ To find out what you feel most comfortable with, it might be prudent to experime
 
 As a software beginner, Understanding Linux and utilizing the command prompt to explore files is quite daunting
 There are a couple of commands I was able to grasp. The commands are mostly just shorthand versions of words. Linux is case-sensitive.
+
 + pwd "print working directory"
   + it's like looking at a folder and seeing all the contents of the folder you're currently in, but instead of seeing it visually, you see it as a list in text form
 + cd "change directory"
@@ -37,7 +38,7 @@ There are a couple of commands I was able to grasp. The commands are mostly just
 + ls "list"
   + lists the contents of the folder/directory you're currently in
 
-There are symbols that you include with these commands 
+There are symbols that you include with these commands
 ***/***, ***-***, ***1***, ***~***
 
 They indicate pathways to folders/directories but I'm still having trouble understanding them. I'll unpdate as I learn more.
