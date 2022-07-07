@@ -1,6 +1,6 @@
 # Bert's Beacon
 
-> Welcome to inner workings of my mind. 
+> Welcome to inner workings of my mind.
 
 Here, you may observe the ramblings that I come up with throughout my experience in courses
 
@@ -9,9 +9,9 @@ Here, you may observe the ramblings that I come up with throughout my experience
 - 301
 - 401
 
-#### A little about me
+## A little about me
 
-I was born and grew up in Southern California. No I dont surf but yes, I love avocados. I currently reside near Seattle, Washington. I enjoy hiking the forests and mountains, as well as swim and paddleboard in the lakes. 
+I was born and grew up in Southern California. No I dont surf but yes, I love avocados. I currently reside near Seattle, Washington. I enjoy hiking the forests and mountains, as well as swim and paddleboard in the lakes.
 
 I have a dog who's a mixed breed, but I don't have a clue what those breeds are. Lab-Chow maybe? His name is Noble and I swear he's a weird dog, deer, and little bear mixed into one.
 

@@ -7,7 +7,7 @@ Different symbols that are entered will create different ways to see your text o
 
 For Example
 
-1. You 
+1. You
 2. Can
 3. Create
 4. Lists
