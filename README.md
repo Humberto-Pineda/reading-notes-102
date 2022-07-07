@@ -1,4 +1,4 @@
-# A little about me
+# A little about me miguel was here
 
 I was born and grew up in Southern California. No I dont surf but yes, I love avocados. I currently reside near Seattle, Washington. I enjoy hiking the forests and mountains, as well as swim and paddleboard in the lakes.
 
