@@ -1,6 +1,6 @@
 # Table of Contents
 
-[Class Introduction](https://humberto-pineda.github.io/reading-notes/)
+[Class Introduction](https://humberto-pineda.github.io/reading-notes/intro)
 
 [Class 1](https://humberto-pineda.github.io/reading-notes/class1)
 
