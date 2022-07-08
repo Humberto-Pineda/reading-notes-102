@@ -23,3 +23,8 @@ This is why you want to map it our prior, that is, wireframe it.
 Once you know how your layout will be, you can code out where your Headers, Body, Main, Paragraphs, Images, and everything will go, and it is made easier thanks to VSC auto filing what you need.
 
 It takes practice, yes, but if this novice can make sense of it after some study time, surely anyone else can as well.
+
+Here is the page I managed to create in class!
+Please check it out!
+
+[Animals Are Cool!](https://humberto-pineda.github.io/reading-notes/Animals%20Page/index.html#)
