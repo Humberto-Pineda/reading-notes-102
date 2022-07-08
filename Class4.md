@@ -27,7 +27,7 @@ It takes practice, yes, but if this novice can make sense of it after some study
 Here is the page I managed to create in class with my buddy Miguel!
 Please check it out!
 
-[Animals Are Cool!](https://humberto-pineda.github.io/reading-notes/Animals%20Page/index.html#)
+[Animals Are Cool!](https://humberto-pineda.github.io/Animals-are-Cool/)
 
 Here is Miguel's page!
 [Animals Are Cool!](https://m11gz.github.io/reading.notes/Animals%20Page/index.html#)
