@@ -21,5 +21,3 @@ I was able to play with a few things javascript can do, and here are 3 things th
   - I feel like utilizing the console is most fun, because you get to have visitors to you page interact with what youve created. You can make a little quiz, ask for input, or make quick jokes with the user.
 
 This simply touches the tip of the surface of the vast amount of things you can do with javascript.
-
-Check out my site to see how I've implemented it so far!
