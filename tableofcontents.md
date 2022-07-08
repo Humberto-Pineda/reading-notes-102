@@ -7,3 +7,5 @@
 [Class 2](https://humberto-pineda.github.io/reading-notes/class2)
 
 [Class 3](https://humberto-pineda.github.io/reading-notes/class3)
+
+[Class 4](https://humberto-pineda.github.io/reading-notes/class4)
