@@ -8,4 +8,4 @@
 
 [Class 3](https://humberto-pineda.github.io/reading-notes/class3)
 
-[Class 4](https://humberto-pineda.github.io/reading-notes/class4)
+[Class 4](https://humberto-pineda.github.io/reading-notes/Class4)
