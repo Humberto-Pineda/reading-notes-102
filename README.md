@@ -23,3 +23,11 @@ Feel free to contact me through email at <bpineda7540@gmail.com>
 [Class 3](class3.md)
 
 [Class 4](Class4.md)
+
+[Class 5](https://humberto-pineda.github.io/Animals-are-Cool/class5)
+
+[Class 6](https://humberto-pineda.github.io/Animals-are-Cool/class6)
+
+[Class 7](https://humberto-pineda.github.io/Animals-are-Cool/class7)
+
+[Class 8](https://humberto-pineda.github.io/Animals-are-Cool/class8)
